@@ -1,12 +1,27 @@
 h1{
-  font-famliy: Verdana;
   font-weight: normal;
   font-size: 50px;
-  font-color:white;
+  color:white;
   text-align:center;
 }
 h2{
-  font-color:Aquamarine;
+  color:Aquamarine;
   font-size:16px;
   text-align:center;
+}
+html{
+  background-color:black;
+  text-align:center;
+  font-famliy: Verdana;
+}
+h3{
+  font-weight:300;
+  font-size:42px;
+}
+.logo{
+  text-align:right;
+}
+p{
+  color:gray;
+  font-size:21px;
 }
